@@ -18,6 +18,10 @@ The 5 libraries are:
 
 These libraries provide the user with the ability to specify services from different points of view, enabling the user to understand how different components provide and use services as well as how they interact with one another within a Services Oriented Architecture (SOA) system in order to to achieve a business goal.
 
+## Author
+
+This extension was created by [Gil R. van Gerven](https://github.com/giva16) (2023).
+
 # Table of Contents
 
 - [What is SoaML?](#what-is-soaml)
